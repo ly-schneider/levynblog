@@ -4,8 +4,6 @@ draft = false
 image = ""
 description = "Über wer ich bin."
 +++
-![](me.jpg)
+# Levyn Schneider
 
-## Levyn Schneider
-
-lyschneider@icloud.com
+#### lyschneider@icloud.com
