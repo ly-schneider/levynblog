@@ -2,9 +2,9 @@
 title = "Über mich"
 draft = false
 image = ""
-description = "Seite über mich"
+description = "Über wer ich bin."
 +++
-![](/img/default-author.png)
+![](me.jpg)
 
 ## Levyn Schneider
 
