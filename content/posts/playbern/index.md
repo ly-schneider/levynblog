@@ -13,12 +13,12 @@ Am 16. und 17. Oktober war ich am GameJam zusammen mit Oleg. Es hat mir Riesensp
 Wie funktioniert das Game?\
 Du brauchst eine Webcam als "Controller". Um anzugreifen machst du die Faust und um abzuwehren machst du eine offene Hand.
 
-![GameJam](gamejam2-1.jpeg)
+![](gamejam2-1.jpeg)
 
-![GameJam](gamejam3-1.jpg)
+![](gamejam3-1.jpg)
 
-![GameJam](gamejam4-1.jpeg)
+![](gamejam4-1.jpeg)
 
-![GameJam](gamejam5-1.jpeg)
+![](gamejam5-1.jpeg)
 
-![GameJam](gamejam6-1.jpeg)
+![](gamejam6-1.jpeg)
