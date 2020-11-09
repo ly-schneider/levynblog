@@ -1,7 +1,7 @@
 +++
 title = "US-Wahlen"
 date = "2020-11-09"
-draft = true
+draft = false
 pinned = false
 tags = ["wahlen", "election2020"]
 image = "us-wahlen.jpg"
