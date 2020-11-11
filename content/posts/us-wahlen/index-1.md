@@ -15,6 +15,6 @@ Ich persönlich finde die US Wahlen sehr kompliziert. Weil in der USA gibt es di
 \
 Update: Biden 290 Trump 214 (könnte sich noch ändern) aber schlussendlich hat Biden gewonnen.
 
-![Alle Positionen von den Homeschoolern (Namen verdeckt wegen Privatsphäre)](img_8076.jpg)
+![](img_8076.jpg)
 
-![Das Endergebnis von den Wahlen.](bidenvstrump.png)
+![](bidenvstrump.png)
