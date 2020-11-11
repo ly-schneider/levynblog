@@ -14,7 +14,3 @@ Am 26.10 haben c.a. 30 Homeschooler eine Wahlsimulation gespielt. Als erstes wur
 Ich persönlich finde die US Wahlen sehr kompliziert. Weil in der USA gibt es die normalen Bürger dann gibt es auch noch Wahlmänner und dann hat auch noch jeder Bundesstaat unterschiedlich viele Wahlmänner also ich fände es besser wenn es wie in der Schweiz wäre das der Bundesrat vom Nationalrat gewählt wird und der Bundesrat den/die Präsident/in wählt und das der/die Präsident/in all Jahr wechseln würde. Ich denke dass das Ergebnis sehr knapp werden könnte. Im Moment steht es 253 für Biden und 214 für Trump (Stand 12:21 5.11).\
 \
 Update: Biden 290 Trump 214 (könnte sich noch ändern) aber schlussendlich hat Biden gewonnen.
-
-![](img_8076.jpg)
-
-![](bidenvstrump.png)
