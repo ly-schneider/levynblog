@@ -12,7 +12,13 @@ footnotes = ""
 
 Fabian hat am 1. Februar gefragt ob jemand lust hätte einen Preisberechner zu Programmieren. Da ich nichts zu tun hatte im Moment habe ich zugesagt.
 
-Am Anfang haben wir und getroffen und er hat mir gesagt wie er gerne den Preisberechner gerne haben würde. Dann habe ich angefangen das zu Programmieren. Am Anfang gab es eigentlich keine grossen Herausforderungen. 
+Am Anfang haben wir und getroffen und er hat mir gesagt wie er gerne den Preisberechner gerne haben würde. Dann habe ich angefangen das zu Programmieren. Am Anfang gab es eigentlich keine grossen Herausforderungen.
+
+Hier sind noch die alten Designs:
+
+![](image.png)
+
+![](image_total.png)
 
 Als erstes habe ich das Html gemacht. Das war auch das einfachste von allem. Ich habe ein paar [selects](https://www.w3schools.com/tags/tag_select.asp) gemacht und noch Text hinzugefügt. 
 
