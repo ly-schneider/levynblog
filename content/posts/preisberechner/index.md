@@ -14,17 +14,17 @@ Fabian hat am 1. Februar gefragt ob jemand lust hätte einen Preisberechner zu P
 
 Am Anfang haben wir und getroffen und er hat mir gesagt wie er gerne den Preisberechner gerne haben würde. Dann habe ich angefangen das zu Programmieren. Am Anfang gab es eigentlich keine grossen Herausforderungen.
 
-Hier sind noch die alten Designs:
-
-![](image.png)
-
-![](image_total.png)
-
 Als erstes habe ich das Html gemacht. Das war auch das einfachste von allem. Ich habe ein paar [selects](https://www.w3schools.com/tags/tag_select.asp) gemacht und noch Text hinzugefügt. 
 
 Dann habe ich mich an's Css gemacht. Das war eigentlich auch recht einfach aber ich habe nicht sehr nachgedacht während dem Programmieren und darum habe ich alles einzeln Positioniert was dazu führt das wenn man einen kleineren/grösseren Bildschirm hätte das dann alles anders aussehen würde.
 
 Danach habe ich das JavaScript Programmiert. Das JavaScript (kurz. JS) war das schwierigste von allem. Als erstes habe ich bei den selects werte hingetan (wie viel es kosten würde). Dann habe ich lediglich im JS den Wert wo man ausgewählt hat zusammen gerechnet und dann beim Total wiedergegeben.
+
+Hier sind noch die alten Designs:
+
+![](image.png)
+
+![](image_total.png)
 
 Nachdem ich das alles Programmiert habe, habe ich es auch Fabian gezeigt. Er fand es gut nur das Design hat ihm nicht so gefallen. Ein paar Wochen später hat er mir ein neues Design gegeben (das was jetzt auf der Website ist). Und er wollte auch das wenn man z.B. 2 Erwachsene und 2. Kinder hat das ein Kind in den Grundtarif von den beiden Erwachsenen eingerechnet wird (hier als [](https://photos.app.goo.gl/MQYjJRyTAnjerk8P9)[Erklärung](https://photos.app.goo.gl/pVLXRBuQ4qYLBZJ18)). Das war mit abstand das schwierigste von allem. Als erstes habe ich es selber versucht mit [If else](https://www.w3schools.com/js/js_if_else.asp) Funktionen. Doch das hat nicht funktioniert. Dann habe ich einen vom ICT-Campus angeschrieben und gefragt ob er mir helfen konnte. Er hat mir dann gesagt das es noch eine andere Funktion gibt nämlich eine [Switch](https://www.w3schools.com/js/js_switch.asp) Funktion. Zu dem Zeitpunkt wusste ich nicht was das wahr, doch zum Glück hat er mir es erklärt (ich werde nicht erklären wie eine switch Funktion funktioniert). Es hat dann auch Funktioniert und ich war sehr froh.
 
