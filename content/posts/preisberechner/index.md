@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["preisberechner", "programming"]
 image = "imgonline-com-ua-compresstosize-sa5efclryyaw.jpg"
-description = "Einen Blog Eintrag über den Preisberechner Job von Fabian."
+description = "Ein Blog Eintrag über den Preisberechner Job von Fabian."
 footnotes = ""
 +++
 ## **Preisberechner**
